@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import ComponentHeader from './components/header';
 import ComponentFooter from './components/footer';
-import BodyIndex from './components/BodyIndex';
+import BodyIndex from './components/bodyIndex';
 
 class App extends Component {
     render() {
