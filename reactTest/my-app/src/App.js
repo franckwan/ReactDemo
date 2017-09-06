@@ -13,7 +13,7 @@ class App extends Component {
 
             <div className="App">
                 {Component}
-                <BodyIndex userid={12344} username={"nick"}/>
+                <BodyIndex userid={2123} username="wansu"/>
                 <ComponentFooter/>
 
 
