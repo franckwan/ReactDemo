@@ -5,6 +5,8 @@ import ComponentHeader from './components/header';
 import ComponentFooter from './components/footer';
 import BodyIndex from './components/bodyIndex';
 
+import 'antd/dist/antd.css';
+
 class App extends Component {
     render() {
         var Component = <ComponentHeader/>;

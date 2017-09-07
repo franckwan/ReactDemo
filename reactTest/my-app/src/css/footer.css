@@ -1,0 +1,10 @@
+.minifooter{
+    background-color:#333333;
+    color: #ffffff;
+    padding-top: 3px;
+    padding-left: 20px;
+    padding-bottom: 3px;
+}
+.minifooter h1{
+    font-size: 15px;
+}

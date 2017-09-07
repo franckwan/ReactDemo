@@ -3,10 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "antd": "^2.13.0",
+    "babel-plugin-import": "^1.4.0",
+    "babel-plugin-react-html-attrs": "^2.0.0",
+    "css-loader": "^0.28.7",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-mixin": "^2.0.2",
-    "react-scripts": "1.0.13"
+    "react-scripts": "1.0.13",
+    "style-loader": "^0.13.1"
   },
   "scripts": {
     "start": "react-scripts start",
